@@ -1,11 +1,12 @@
 body {
     font-family: 'Courier New', monospace;
-    font-size: 14px;
+    font-size: 2rem;
 }
 
 table {
     border-collapse: collapse;
     border: 2px solid #eee;
+    margin: 0 auto;
 }
 
 thead,
